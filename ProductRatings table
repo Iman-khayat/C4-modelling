@@ -1,0 +1,8 @@
+CREATE TABLE ProductRatings (
+    Id INT PRIMARY KEY,
+    ProductId INT NOT NULL,
+    UserId INT NOT NULL,
+    Rating INT NOT NULL,
+    CONSTRAINT FK_ProductRatings_Products FOREIGN KEY (ProductId) REFERENCES Products(Id),
+    CONSTRAINT FK_ProductRatings_Users FOREIGN KEY (UserId) REFERENCES Users(Id)
+);
