@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fuSASfdkDS1frhJnBOoWEYMfYPQnDwzOqSg/dePs6lc=",
+  "Source": "EntityFrameworkCoreMigrations",
+  "BasePath": "_content/EntityFrameworkCoreMigrations",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

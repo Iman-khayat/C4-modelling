@@ -1,0 +1,11 @@
+FROM mcr.microsoft.com/dotnet/aspnet:6.0-alpine
+
+WORKDIR /app
+
+COPY *.csproj ./
+
+RUN dotnet restore
+
+COPY *.dll ./
+
+ENTRYPOINT ["dotnet", "ProductService.dll"]
