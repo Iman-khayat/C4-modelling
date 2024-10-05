@@ -27,3 +27,10 @@ Rollback Instructions
     ```sql
     DROP TABLE Products;
     ```
+To use this code:
+
+Create a new ASP.NET Core Web API project.
+Replace the contents of the Program.cs, Startup.cs, and Dockerfile with the provided code.
+Create a docker-compose.yml file in the project root.
+Build and run the Docker Compose project using docker-compose up.
+This will start two instances of the Product Service container, each connected to a RabbitMQ broker and a PostgreSQL database. You can now access the service's API endpoints and publish messages to the RabbitMQ queue for asynchronous processing.
