@@ -1,7 +1,7 @@
 # Compulsory-Assignment-1
 ![E-commerece platform](https://github.com/user-attachments/assets/c5b635d3-2f5c-4584-a4e8-dc8449c0729a)
 
-![image](https://github.com/user-attachments/assets/523dcb18-1216-4c3c-9882-ff478ba63162)
+![E-commerece platform (1)](https://github.com/user-attachments/assets/0ee442f7-f8be-402c-89cf-81a9e75ffe66)
 ![image](https://github.com/user-attachments/assets/9a734c80-5760-4295-beca-d3c1726588ab)
 
 
