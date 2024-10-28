@@ -5,6 +5,17 @@
  ![image](https://github.com/user-attachments/assets/9a734c80-5760-4295-beca-d3c1726588ab)
 
 
+ Code (C4):
+
+For the Shopping Cart component in the Web Application:
+Classes:
+CartController: Handles user interactions
+CartService: Business logic for cart operations
+CartRepository: Database interactions for cart data
+CartItem: Represents an item in the cart
+Product: Represents a product in the catalog
+
+
 Rollback Instructions
 
   1. Rollback Product Ratings:
